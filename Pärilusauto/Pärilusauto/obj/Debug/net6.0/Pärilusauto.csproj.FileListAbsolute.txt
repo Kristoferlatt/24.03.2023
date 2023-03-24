@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\bin\Debug\net6.0\Pärilusauto.exe
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\bin\Debug\net6.0\Pärilusauto.deps.json
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\bin\Debug\net6.0\Pärilusauto.runtimeconfig.json
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\bin\Debug\net6.0\Pärilusauto.dll
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\bin\Debug\net6.0\Pärilusauto.pdb
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.dll
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\refint\Pärilusauto.dll
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.pdb
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\Pärilusauto.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Pärilusauto\Pärilusauto\obj\Debug\net6.0\ref\Pärilusauto.dll
